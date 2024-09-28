@@ -1,38 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Softwello: Where Software Innovation Meets Excellence</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        ul, li {
-            margin-left: 20px;
-        }
-        a {
-            color: #1d72b8;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .highlight {
-            background-color: #f7f7f7;
-            padding: 10px;
-            border-radius: 5px;
-            margin: 10px 0;
-        }
-    </style>
-</head>
-<body>
-    <h1>Softwello: Where Software Innovation Meets Excellence 🌐</h1>
+
+ # Softwello: Where Software Innovation Meets Excellence 🌐
     <p>Welcome to <strong>Softwello</strong>, the home of cutting-edge software solutions and industry-defining digital services. We are more than just a tech company; we are a team of problem solvers, creators, and innovators who strive to empower businesses and drive the future of technology.</p>
 
     <h2>📜 About Us</h2>
